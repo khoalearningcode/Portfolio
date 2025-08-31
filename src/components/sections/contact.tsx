@@ -7,16 +7,16 @@ import { Textarea } from '@/components/ui/textarea';
 import { Card, CardContent } from '@/components/ui/card';
 
 const socialLinks = [
-  { icon: Github, href: 'https://github.com/khoa-le-23', name: 'GitHub' },
-  { icon: Linkedin, href: '#', name: 'LinkedIn' },
-  { icon: Facebook, href: '#', name: 'Facebook' },
-  { icon: Instagram, href: '#', name: 'Instagram' },
+  { icon: Github, href: 'https://github.com/khoalearningcode', name: 'GitHub' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/cao-khoa-1b09141b8/', name: 'LinkedIn' },
+  { icon: Facebook, href: 'https://www.facebook.com/cao.khoa.140', name: 'Facebook' },
+  { icon: Instagram, href: 'https://www.instagram.com/caokhoa298/', name: 'Instagram' },
 ];
 
 const contactDetails = [
-  { icon: Phone, text: '(+84) 123 456 789' },
-  { icon: Mail, text: 'personal.email@email.com' },
-  { icon: University, text: 'university.email@hcmut.edu.vn' },
+  { icon: Phone, text: '(+84) 977385259' },
+  { icon: Mail, text: 'godminhkhoa@gmail.com' },
+  { icon: University, text: 'khoa.caoleminh@hcmut.edu.vn' },
 ];
 
 const ContactSection = () => {
