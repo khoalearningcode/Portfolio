@@ -61,7 +61,7 @@ const ContactSection = () => {
         <Reveal direction="right" delay={200}>
           <Card className="bg-card/50 backdrop-blur-sm border-border/20">
             <CardContent className="p-6">
-              <form action="mailto:your-email@example.com" method="post" encType="text/plain" className="space-y-6">
+              <form action="mailto:godminhkhoa@gmail.com" method="post" encType="text/plain" className="space-y-6">
                 <div>
                   <label htmlFor="name" className="sr-only">Name</label>
                   <Input id="name" name="name" type="text" placeholder="Your Name" required className="bg-background/50" />
